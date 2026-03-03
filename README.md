@@ -10,4 +10,5 @@ Currently migrating the Vite+React architecture to a standalone environment.
 2. Install dependencies:
  
    '''bash
+   
    npm install
