@@ -15,6 +15,6 @@ Currently migrating the Vite+React architecture to a standalone environment.
 ## How to Run Locally
 1. **Clone this repository:**
 
-   '''bash
+   ```bash
 
    git clone [https://github.com/rahulnair-gif/big-king/]
