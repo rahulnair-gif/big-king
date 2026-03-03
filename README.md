@@ -1,20 +1,12 @@
-# Base44 App
+# Retro Smash
 
+Retro Smash is a standalone mobile game originally developed on Base44 and now being developed on Base44 and now being migrated to a native mobile experience.
 
-This app was created automatically by Base44.
-It's a Vite+React app that communicates with the Base44 API.
+## Development Status
+Currently migrating the Vite+React architecture to a standalone environment.
 
-## Running the app
-
-```bash
-npm install
-npm run dev
-```
-
-## Building the app
-
-```bash
-npm run build
-```
-
-For more information and support, please contact Base44 support at app@base44.com.
+## How to Run Locally
+1. Clone this repository.
+2. Install dependencies:
+   '''bash
+   npm install
