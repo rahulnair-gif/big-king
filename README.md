@@ -12,3 +12,9 @@ Currently migrating the Vite+React architecture to a standalone environment.
    '''bash
    
    npm install
+## How to Run Locally
+1. **Clone this repository:**
+
+   '''bash
+
+   git clone [https://github.com/rahulnair-gif/big-king/]
