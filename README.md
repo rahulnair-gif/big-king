@@ -9,7 +9,7 @@ Currently migrating the Vite+React architecture to a standalone environment.
 1. Clone this repository.
 2. Install dependencies:
  
-   '''bash
+   ```bash
    
    npm install
 ## How to Run Locally
